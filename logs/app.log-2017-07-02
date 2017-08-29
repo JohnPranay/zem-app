@@ -1,0 +1,27 @@
+[02 07 2017 07:00:16.198] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoDB
+[02 07 2017 07:01:46.906] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoDB
+[02 07 2017 07:02:03.896] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoDB
+[02 07 2017 07:02:25.286] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoDB
+[02 07 2017 07:15:11.527] [DEBUG] - Inside user post
+[02 07 2017 07:15:15.065] [DEBUG] - Inside user post
+[02 07 2017 07:24:46.762] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoDB
+[02 07 2017 07:24:50.729] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoDB
+[02 07 2017 07:35:16.440] [DEBUG] - Inside restaurant add post
+[02 07 2017 07:35:30.273] [DEBUG] - Inside restaurant add post
+[02 07 2017 07:35:36.479] [DEBUG] - Inside restaurant add post
+[02 07 2017 07:35:41.473] [DEBUG] - Inside get
+[02 07 2017 07:35:49.748] [DEBUG] - Inside restaurant update post
+[02 07 2017 07:36:29.152] [DEBUG] - Inside restaurant update post
+[02 07 2017 07:36:38.846] [DEBUG] - Inside restaurant update post
+[02 07 2017 07:37:12.032] [DEBUG] - Inside get
+[02 07 2017 07:37:37.325] [DEBUG] - Inside restaurant delete post
+[02 07 2017 11:14:50.785] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoDB
+[02 07 2017 11:15:23.626] [DEBUG] - Inside get
+[02 07 2017 11:15:38.779] [DEBUG] - Inside get
+[02 07 2017 16:13:33.300] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoDB
+[02 07 2017 16:17:56.289] [DEBUG] - Inside user post
+[02 07 2017 16:20:21.007] [DEBUG] - Inside restaurant add post
+[02 07 2017 16:20:24.518] [DEBUG] - Inside get
+[02 07 2017 16:20:39.704] [DEBUG] - Inside restaurant update post
+[02 07 2017 16:39:24.850] [DEBUG] - Inside get
+[02 07 2017 16:41:09.079] [DEBUG] - Inside restaurant delete post
